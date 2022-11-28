@@ -56,3 +56,11 @@ li{
 }
 
 /* Cake Page */
+
+.cake-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
